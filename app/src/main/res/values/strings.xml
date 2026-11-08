@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="channel_name_forwarder">SMS Forwarder Service</string>
+    <string name="channel_desc_forwarder">Ongoing background service capturing and forwarding SMS messages to your email</string>
+    <string name="channel_name_alerts">SMS Forwarder Alerts</string>
+    <string name="channel_desc_alerts">Notifications for SMS forwarded or delivery failures</string>
+    <string name="service_running_title">SMS Forwarder is Active</string>
+    <string name="service_running_desc">Listening for SMS and ready to forward to your email</string>
+    <string name="service_paused_desc">Forwarder service paused</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "SMS Forwarder",
+  "description": "Secure SMS to email forwarder with customizable contact and keyword filters, continuous background service, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
